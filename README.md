@@ -1,4 +1,4 @@
-# Multimodal Visual Kinesthetic LbD: Towards multi-modal Learning by Demonstration: Combining depthless visual data with kinesthetic teaching
+# Multimodal Visual & Kinesthetic LbD. Towards multi-modal Learning by Demonstration: Combining depthless visual data with kinesthetic teaching
 
 This implements the Multimodal LbD, combining visual observation with kinesthetic corrections.
 
