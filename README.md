@@ -13,10 +13,10 @@
  
  ## 1. Usage
  
- For the initial visual training:
+ For the initial visual training run:
  
  ```
- python3 XXXX.py
+visual_demo.py
  
  ```
  
@@ -25,6 +25,6 @@
  For running the kinesthetic correctins controller:
  
  ```
- python3 YYYYY.py
+ kinesthetic_correction.py
  
  ```
